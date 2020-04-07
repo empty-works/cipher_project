@@ -1,9 +1,9 @@
-#ifndef _THE_CIPHER_H_
-#define _THE_CIPHER_H_
+#ifndef _SORTER_H_
+#define _SORTER_H_ 
 
 #include <string>
 
-class the_cipher {
+class Sorter {
 
 private:
 	std::string user_input{};
