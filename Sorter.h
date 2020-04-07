@@ -1,5 +1,5 @@
-#ifndef _SORTER_H_
-#define _SORTER_H_ 
+#ifndef SORTER_H_
+#define SORTER_H_ 
 
 #include <string>
 
