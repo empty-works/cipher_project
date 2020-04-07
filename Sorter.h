@@ -8,9 +8,8 @@ class Sorter {
 private:
 	std::string user_input{};
 public:
-	/*
-	 *
-	 * */		
+	Sorter();
+	~Sorter();	
 };
 
 #endif
