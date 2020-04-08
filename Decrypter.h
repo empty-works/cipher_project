@@ -3,7 +3,11 @@
 
 class Decrypter {
 
+private:
 
+public:
+	Decrypter();	
+	~Decrypter();
 };
 
 #endif

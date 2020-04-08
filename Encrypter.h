@@ -3,7 +3,12 @@
 
 class Encrypter {
 
+private:
 
+public:
+	
+	Encrypter();
+	~Encrypter();
 };
 
 #endif
