@@ -23,8 +23,24 @@ void Display::show() {
 		std::cout << "q) Quit" << std::endl;
 
 		std::cin >> selection;
-
-		std::cout << "Entered: " << selection << std::endl;	
+		/*
+		switch(selection) {
+		
+			case 'e':
+			case 'E':
+				{
+					
+					break;
+				}
+			case 'd':
+			case 'D':
+				{
+					
+					break;
+				}
+			default:
+		}
+		*/
 	}
 	while(selection != 'q' && selection != 'Q');
 }
