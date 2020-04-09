@@ -6,6 +6,7 @@
 class Display {
 
 private:
+	void activate_selected(const char selected);
 
 public:
 	Display();
