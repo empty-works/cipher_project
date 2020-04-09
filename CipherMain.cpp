@@ -1,8 +1,10 @@
 #include <iostream>
-#include "Sorter.h"
+#include "Display.h"
 
 int main() {
 
-	
+	Display display;
+	display.show();
+
 	return 0;
 }
