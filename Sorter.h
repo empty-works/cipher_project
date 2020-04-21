@@ -7,7 +7,8 @@ class Sorter {
 
 private:
 	std::string user_input{};
-	size_t num_shifts{0};
+	size_t num_shifts{3};
+	std::string alpha_key{"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"};
 public:
 	Sorter();
 	~Sorter();
